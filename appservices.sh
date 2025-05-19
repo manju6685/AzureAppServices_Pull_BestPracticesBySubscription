@@ -27,7 +27,7 @@ fi
 #If FileName has passed
 if [ -z "$3" ]; then
     # HTML output file
-    html_output="AppServicesRecommdentionaBeta.html"
+    html_output="AppServicesRecommendationsBeta.html"
 else
     html_output="$3"
 fi
